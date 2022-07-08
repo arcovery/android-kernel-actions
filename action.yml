@@ -1,5 +1,5 @@
 name: Android Kernel Action
-description: Build android kernel with GitHub Action
+description: https://github.com/arcovery/android_kernel_xiaomi_sm8150.git
 author: Syahrial Agni Prasetya <lemniskett@protonmail.com>
 branding:
   icon: box
